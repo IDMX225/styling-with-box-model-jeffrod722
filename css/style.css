@@ -6,13 +6,18 @@
 
 .box-one {
     background-color: red;
-    border: 20px solid purple;
+    border: solid purple;
     padding: 20px;
     margin: 20px;
+    border-width: 20px;
 
 }
 
 .box-two {
     background-color: blue;
     border: solid yellow;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
+    
 }
